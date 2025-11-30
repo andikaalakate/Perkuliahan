@@ -4,33 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2ca11370d244b927",
+        "id": "3d6d5b95d1350e9f",
         "type": "tabs",
-        "dimension": 72.65745007680492,
         "children": [
           {
-            "id": "4b747a742d9c8219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bahasa Indonesia/Materi/Modul 7 - Pengertian Kalimat dan Jenis-Jenis Kalimat.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modul 7 - Pengertian Kalimat dan Jenis-Jenis Kalimat"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7f251da8242d8a0f",
-        "type": "tabs",
-        "dimension": 27.342549923195087,
-        "children": [
-          {
-            "id": "964497ab642cbfb7",
+            "id": "dc18163cf252e2bf",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -233,8 +211,31 @@
       "obsidian-word-sprint:Activate Word Sprint Leaf": false
     }
   },
-  "active": "4b747a742d9c8219",
+  "active": "dc18163cf252e2bf",
   "lastOpenFiles": [
+    "Pemrograman Dasar/File.md",
+    "Pemrograman Dasar/File/Pemrograman Dasar.md",
+    "Pemrograman Dasar/Materi.md",
+    "Pemrograman Dasar/Pemrograman Dasar.md",
+    "Bahasa Indonesia/File.md",
+    "Bahasa Indonesia/Bahasa Indonesia.md",
+    "Bahasa Indonesia/Materi.md",
+    "Bahasa Indonesia/Materi/Modul Tambahan - Penulisan Daftar Pustaka.md",
+    "Pemrograman Dasar/File/Pertemuan 0405.pdf",
+    "Pemrograman Dasar/File/Pertemuan 0203.pdf",
+    "Pemrograman Dasar/File/Pertemuan 01.pdf",
+    "Pemrograman Dasar/File/#01 Pemrograman Dasar - Pengantar.pdf",
+    "Pemrograman Dasar/File/Pemrograman Dasar #0204.pdf",
+    "Bahasa Indonesia/File/EYD.pdf",
+    "Pemrograman Dasar/File",
+    "Pemrograman Dasar/#01 Pemrograman Dasar - Pengantar.pdf.download",
+    "Pemrograman Dasar/File/Bahan Ajar Pemrograman Dasar #02.pdf",
+    "Pemrograman Dasar/Bahan Ajar Pemrograman Dasar #02.pdf.download",
+    "Bahasa Indonesia/Materi/Modul Tambahan - Sejarah Perkembangan dan Kedudukan Bahasa Indonesia.md",
+    "Bahasa Indonesia/Materi/Modul Tambahan - Imbuhan (Afiks).md",
+    "Bahasa Indonesia/Materi/Modul Tambahan - Ejaan dan Kaidah Penulisan (EYD _ PUEBI).md",
+    "Bahasa Indonesia/Materi/Modul Tambahan - Bahasa Baku - Pengertian, Ciri, dan Sikap terhadap Bahasa.md",
+    "Bahasa Indonesia/Materi/Modul 7 - Pengertian Kalimat dan Jenis-Jenis Kalimat.md",
     "Bahasa Indonesia/Materi/Modul 6 - Istilah Sains dan Teknologi dalam Bahasa Indonesia.md",
     "Bahasa Indonesia/Materi/Modul 5 - Diksi (Pilihan Kata).md",
     "Bahasa Indonesia/Materi/Modul 4 - Tanda Baca dan Kata Serapan dalam Bahasa Indonesia.md",
@@ -248,29 +249,6 @@
     "Materi/Modul Tambahan - Bahasa Baku - Pengertian, Ciri, dan Sikap terhadap Bahasa.md",
     "Materi.md",
     "File.md",
-    "Materi/Modul 2 - Ragam Bahasa dan Laras Bahasa Indonesia.md",
-    "File/EYD.pdf",
-    "File/Sejarah Bahasa.pdf",
-    "Materi/Modul 1 - Sejarah Perkembangan, Fungsi, dan Kedudukan Bahasa Indonesia.md",
-    "File/Untitled.base",
-    "Materi/Modul 4 - Tanda Baca dan Kata Serapan dalam Bahasa Indonesia.md",
-    "Materi/Modul 6 - Istilah Sains dan Teknologi dalam Bahasa Indonesia.md",
-    "Materi/Modul 5 - Diksi (Pilihan Kata).md",
-    "Materi/Modul 7 - Pengertian Kalimat dan Jenis-Jenis Kalimat.md",
-    "Materi/Modul 3 - Perkembangan Ejaan serta Huruf Kapital, Miring, dan Tebal.md",
-    "Materi/Citations.md",
-    "File/bahasa baku.pdf",
-    "Materi/![[Sejarah Bahasa.pptx.md",
-    "File/bahasa baku.pptx",
-    "File/Sejarah Bahasa.pptx",
-    "File/EYD.pptx",
-    "File",
-    "Materi",
-    "Book's/Book's Index.md",
-    "Book's/Book's Sinopsis.md",
-    "Book's/Book's List.md",
-    "The Crazy Day's of Death.md",
-    "Book's/The Crazy Day's of Death.pdf",
     "Images/Mr. Casper van Hoorn.png",
     "Images/img-f4CyIcfGVoiKtWFn9grG1.png",
     "Images/img-GYUJNNCUUCdUBDFWavQVl.png",

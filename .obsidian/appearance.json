@@ -1,0 +1,8 @@
+{
+  "cssTheme": "Things",
+  "accentColor": "#752dcd",
+  "enabledCssSnippets": [
+    "custom-admonitions.e26fe7"
+  ],
+  "baseFontSize": 20
+}

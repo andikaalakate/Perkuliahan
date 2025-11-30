@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "b0ebd2ae76841e78",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ca11370d244b927",
+        "type": "tabs",
+        "dimension": 72.65745007680492,
+        "children": [
+          {
+            "id": "4b747a742d9c8219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bahasa Indonesia/Materi/Modul 1 - Sejarah Perkembangan, Fungsi, dan Kedudukan Bahasa Indonesia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modul 1 - Sejarah Perkembangan, Fungsi, dan Kedudukan Bahasa Indonesia"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7f251da8242d8a0f",
+        "type": "tabs",
+        "dimension": 27.342549923195087,
+        "children": [
+          {
+            "id": "964497ab642cbfb7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "918239793714858d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d391d45bb80635a2",
+        "type": "tabs",
+        "dimension": 79.14494264859229,
+        "children": [
+          {
+            "id": "761f0d553ee7a4b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a252353bb039ecb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "81e91d487cced76b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "e2f265509f79c46b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e7b342f934fec182",
+        "type": "tabs",
+        "dimension": 20.855057351407716,
+        "children": [
+          {
+            "id": "df39efd47ac2c424",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "40b796e80f30f1f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a77cb579a5d7636",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e114264c48a24432",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Book's/Plot/Volume 01.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Volume 01"
+            }
+          },
+          {
+            "id": "8c0683a4a97f41c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Book's/Plot/Volume 01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Volume 01"
+            }
+          },
+          {
+            "id": "8e477b1dabeb0176",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "82a47e5da6113d2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "40ba1161f64d1c96",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-word-sprint:Activate Word Sprint Leaf": false
+    }
+  },
+  "active": "964497ab642cbfb7",
+  "lastOpenFiles": [
+    "Bahasa Indonesia/Materi/Modul 1 - Sejarah Perkembangan, Fungsi, dan Kedudukan Bahasa Indonesia.md",
+    "Materi/Modul Tambahan - Imbuhan (Afiks).md",
+    "Materi/Modul Tambahan - Sejarah Perkembangan dan Kedudukan Bahasa Indonesia.md",
+    "Materi/Modul Tambahan - Penulisan Daftar Pustaka.md",
+    "Materi/Modul Tambahan - Ejaan dan Kaidah Penulisan (EYD _ PUEBI).md",
+    "Materi/Modul Tambahan - Bahasa Baku - Pengertian, Ciri, dan Sikap terhadap Bahasa.md",
+    "Materi.md",
+    "File.md",
+    "Materi/Modul 2 - Ragam Bahasa dan Laras Bahasa Indonesia.md",
+    "File/EYD.pdf",
+    "File/Sejarah Bahasa.pdf",
+    "Materi/Modul 1 - Sejarah Perkembangan, Fungsi, dan Kedudukan Bahasa Indonesia.md",
+    "File/Untitled.base",
+    "Materi/Modul 4 - Tanda Baca dan Kata Serapan dalam Bahasa Indonesia.md",
+    "Materi/Modul 6 - Istilah Sains dan Teknologi dalam Bahasa Indonesia.md",
+    "Materi/Modul 5 - Diksi (Pilihan Kata).md",
+    "Materi/Modul 7 - Pengertian Kalimat dan Jenis-Jenis Kalimat.md",
+    "Materi/Modul 3 - Perkembangan Ejaan serta Huruf Kapital, Miring, dan Tebal.md",
+    "Materi/Citations.md",
+    "File/bahasa baku.pdf",
+    "Materi/![[Sejarah Bahasa.pptx.md",
+    "File/bahasa baku.pptx",
+    "File/Sejarah Bahasa.pptx",
+    "File/EYD.pptx",
+    "File",
+    "Materi",
+    "Book's/Book's Index.md",
+    "Book's/Book's Sinopsis.md",
+    "Book's/Book's List.md",
+    "The Crazy Day's of Death.md",
+    "Kanban.md",
+    "Book's/Volumes/Volume 1/Chapters/01 Hari Yang Menyeramkan.md",
+    "Book's/Plot/Volume 01.md",
+    "Book's/Plot List.md",
+    "Book's/Character/(MC) Adriaan van Eck.md",
+    "Book's/The Crazy Day's of Death.pdf",
+    "Images/Mr. Casper van Hoorn.png",
+    "Images/img-f4CyIcfGVoiKtWFn9grG1.png",
+    "Images/img-GYUJNNCUUCdUBDFWavQVl.png",
+    "Images/img-K5OnUEjsaQllkSXwj0WF9.png",
+    "Images/pixlr-image-generator-2b9f1f79-a020-4695-b20a-1cf6c866f7b7.png",
+    "Images/img-WUWSgGObGqj2e9LUOzOzB.png",
+    "Images/img-wntLhV3kvp3D39HtD90kD.png",
+    "Images/img-uhSeOaKPOwWClYlrqsTqO.png",
+    "Images/img-kKeAY7YSJEDiLzpiH4GP6.png",
+    "Images/bg.jpg"
+  ]
+}

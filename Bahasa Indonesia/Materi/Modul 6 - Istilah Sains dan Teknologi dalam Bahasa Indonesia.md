@@ -1,0 +1,10 @@
+Bahasa Indonesia terus mengembangkan kosakata ilmu pengetahuan dan teknologi. Badan Bahasa mengadakan _Komisi Istilah_ untuk menentukan padanan kata baku sesuai PUEBI (Pedoman Umum Pembentukan Istilah, PUPI). Meskipun banyak istilah asing yang digunakan, jiwa bahasa tidak hilang karena setiap istilah baru dibahas dulu dalam komisi ini[mediaindonesia.com](https://mediaindonesia.com/humaniora/516061/pakar-bahasa-butuh-terus-berkembang-sesuai-zaman#:~:text=%E2%80%9CKita%20tidak%20akan%20kehilangan%20jati,metamesta%2C%20meta%20semesta%2C%E2%80%9D%20jelas%20Adi).
+
+- **Serapan dan padanan:** Banyak istilah teknologi diserap langsung (mis. _internet_, _robot_, _televisi_), sedangkan istilah baru kadang diterjemahkan (mis. _perangkat lunak_ untuk “software”, _kendali jarak jauh_ untuk “remote control”).
+- **Contoh padanan terkini:** “Metaverse” (dunia maya imersif) diresmikan menjadi _metamesta_ oleh Badan Bahasa[mediaindonesia.com](https://mediaindonesia.com/humaniora/516061/pakar-bahasa-butuh-terus-berkembang-sesuai-zaman#:~:text=%E2%80%9CKita%20tidak%20akan%20kehilangan%20jati,metamesta%2C%20meta%20semesta%2C%E2%80%9D%20jelas%20Adi).
+- **Pembaruan KBBI:** KBBI online diperbaharui rutin, menambah banyak entri asing dan teknologi seperti _fengsui, bot,_, dll[mediaindonesia.com](https://mediaindonesia.com/humaniora/516061/pakar-bahasa-butuh-terus-berkembang-sesuai-zaman#:~:text=Pada%20pemutakhiran%20KBBI%20daring%20April,puyunghai%2C%20dacin%2C%20micin%2C%E2%80%9D%20ujar%20Adi). Dengan demikian, istilah sains dan teknologi baru dapat dipakai dalam bahasa Indonesia tanpa kehilangan aturan kaidah.
+
+**Contoh:**
+- Ilmiah: _“Sel-sel tumbuhan tersebut menggunakan energi dari fotosintesis.”_ (istilah baku _fotosintesis_, _tumbuhan_).
+- Teknologi: _“Program ini dijalankan di komputer”_ (kata baku _komputer_ dari _computer_).
+- Sebagai istilah baru: _“Pertemuan diadakan di dunia **metamesta**_” (penggunaan _metamesta_ untuk _metaverse_).

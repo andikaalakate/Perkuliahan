@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:Modul",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Materi",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.35052083333333,
+  "lineSizeMultiplier": 1.39945850819006,
+  "collapse-forces": false,
+  "centerStrength": 0.494991200758089,
+  "repelStrength": 16.7239745498849,
+  "linkStrength": 0.663192094219575,
+  "linkDistance": 198,
+  "scale": 0.4230857203161818,
+  "close": true
+}
